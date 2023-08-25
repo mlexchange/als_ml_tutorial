@@ -1,7 +1,7 @@
 # als_ml_tutorial
 Materials for Hands-On Machine Learning in Python 2023
 
-#Copyright
+# Copyright
 
 MLExchange Copyright (c) 2023, The Regents of the University of California, through Lawrence Berkeley National Laboratory (subject to receipt of any required approvals from the U.S. Dept. of Energy). All rights reserved.
 
