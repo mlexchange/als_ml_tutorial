@@ -1,7 +1,11 @@
+numpy
+matplotlib
+scikit-image
+umap
+Pillow
 torch
 torchvision
-matplotlib
-Pillow
-jupyterlab
-numpy
+torchsummary
 lightning
+jupyterlab
+
