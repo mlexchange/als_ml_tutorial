@@ -1,5 +1,30 @@
-# als_ml_tutorial
-Materials for Hands-On Machine Learning in Python 2023
+# ALS User Meeting Tutorial 2023: Hands-On Machine Learning in Python
+
+This collection of notebooks accompanies the tutorial at the [ALS User Meeting 2023](https://als.lbl.gov/2023-user-meeting-tutorials/).
+
+The tutorial has been prepared by 
+[Tanny Chavez](https://als.lbl.gov/people/tanny-chavez-esparza/),
+[Tibbers Hao](https://als.lbl.gov/people/guanhua-tibbers-hao/),
+[Alex Hexemer](https://als.lbl.gov/people/alex-hexemer/),
+[Wiebke Koepp](https://als.lbl.gov/people/wiebke-koepp/),
+[Dylan McReynolds](https://als.lbl.gov/people/dylan-mcreynolds/), 
+[Eric Roberts](https://www.linkedin.com/in/eric-roberts714/), 
+[Zhuowen Zhao](https://als.lbl.gov/people/zhuowen-zhao/), and
+[Petrus Zwart](https://crd.lbl.gov/divisions/amcr/mathematics-dept/math-for-experimental-data-analysis/people-of-math-for-experimental-data-analysis-group/peter-zwart/).
+
+It consists of the following hands-on sessions:
+- Data pre-processing by [Tibbers Hao](https://als.lbl.gov/people/guanhua-tibbers-hao/): 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/2_1_ML_tutorial_DataPreprocessing.ipynb)
+- Dimensionality reduction by [Eric Roberts](https://www.linkedin.com/in/eric-roberts714/): 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/2_2_Hands_On_Dimensionality_Reduction.ipynb)
+- Fitting and Tensors by [Petrus Zwart](https://crd.lbl.gov/divisions/amcr/mathematics-dept/math-for-experimental-data-analysis/people-of-math-for-experimental-data-analysis-group/peter-zwart/): 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/3_2_Fitting_Basics.ipynb)
+- Dataloaders by [Zhuowen Zhao](https://als.lbl.gov/people/zhuowen-zhao/): 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/2_4_ML_tutorial_dataLoading.ipynb)
+- Autoencoders by [Wiebke Koepp](https://als.lbl.gov/people/wiebke-koepp/): 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/3_1_ML_tutorial_Network.ipynb)
+- Convolutional Neural Networks by [Tanny Chavez](https://als.lbl.gov/people/tanny-chavez-esparza/): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/4_2_ML_tutorial_cnn.ipynb)
+- chatGPT for ML [Alex Hexemer](https://als.lbl.gov/people/alex-hexemer/): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/3_4_ML_tutorial_chatGPT.ipynb)
 
 # Copyright
 

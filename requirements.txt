@@ -1,7 +1,8 @@
 numpy
 matplotlib
 scikit-image
-umap
+scikit-learn
+umap-learn
 Pillow
 torch
 torchvision
