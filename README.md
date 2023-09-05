@@ -20,7 +20,7 @@ It consists of the following hands-on sessions:
 - Fitting and Tensors by [Petrus Zwart](https://crd.lbl.gov/divisions/amcr/mathematics-dept/math-for-experimental-data-analysis/people-of-math-for-experimental-data-analysis-group/peter-zwart/): 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/3_2_Fitting_Basics.ipynb)
 - Dataloaders by [Zhuowen Zhao](https://als.lbl.gov/people/zhuowen-zhao/): 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/2_4_ML_tutorial_dataLoading.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/2_2_ML_tutorial_dataLoading.ipynb)
 - Autoencoders by [Wiebke Koepp](https://als.lbl.gov/people/wiebke-koepp/): 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/3_1_ML_tutorial_Network.ipynb)
 - Convolutional Neural Networks by [Tanny Chavez](https://als.lbl.gov/people/tanny-chavez-esparza/): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/4_2_ML_tutorial_cnn.ipynb)
