@@ -15,7 +15,7 @@ The tutorial has been prepared by
 It consists of the following hands-on sessions:
 - Data pre-processing by [Tibbers Hao](https://als.lbl.gov/people/guanhua-tibbers-hao/): 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/2_1_ML_tutorial_DataPreprocessing.ipynb)
-- Dimensionality reduction by [Eric Roberts](https://www.linkedin.com/in/eric-roberts714/): 
+- Dimensionality reduction by [Eric Roberts](https://sites.google.com/view/ericjohnroberts/home): 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/2_2_Hands_On_Dimensionality_Reduction.ipynb)
 - Fitting and Tensors by [Petrus Zwart](https://crd.lbl.gov/divisions/amcr/mathematics-dept/math-for-experimental-data-analysis/people-of-math-for-experimental-data-analysis-group/peter-zwart/): 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/3_2_Fitting_Basics.ipynb)
