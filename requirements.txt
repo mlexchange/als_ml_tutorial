@@ -9,4 +9,4 @@ torchvision
 torchsummary
 pytorch-lightning
 jupyterlab
-
+ipykernel
