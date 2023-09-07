@@ -14,17 +14,17 @@ The tutorial has been prepared by
 
 It consists of the following hands-on sessions:
 - Data pre-processing by [Tibbers Hao](https://als.lbl.gov/people/guanhua-tibbers-hao/): 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/2_1_ML_tutorial_DataPreprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/1_2_ML_tutorial_DataPreprocessing.ipynb)
 - Dimensionality reduction by [Eric Roberts](https://sites.google.com/view/ericjohnroberts/home): 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/2_2_Hands_On_Dimensionality_Reduction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/1_3_ML_tutorial_DimensionalityReduction.ipynb)
 - Fitting and Tensors by [Petrus Zwart](https://crd.lbl.gov/divisions/amcr/mathematics-dept/math-for-experimental-data-analysis/people-of-math-for-experimental-data-analysis-group/peter-zwart/): 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/3_2_Fitting_Basics.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/2_1_ML_tutorial_FittingBasics.ipynb)
 - Dataloaders by [Zhuowen Zhao](https://als.lbl.gov/people/zhuowen-zhao/): 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/2_2_ML_tutorial_dataLoading.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/2_2_ML_tutorial_DataLoading.ipynb)
 - Autoencoders by [Wiebke Koepp](https://als.lbl.gov/people/wiebke-koepp/): 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/3_1_ML_tutorial_Network.ipynb)
-- Convolutional Neural Networks by [Tanny Chavez](https://als.lbl.gov/people/tanny-chavez-esparza/): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/4_2_ML_tutorial_cnn.ipynb)
-- chatGPT for ML [Alex Hexemer](https://als.lbl.gov/people/alex-hexemer/): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/3_4_ML_tutorial_chatGPT.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/3_2_ML_tutorial_Network.ipynb)
+- Convolutional Neural Networks by [Tanny Chavez](https://als.lbl.gov/people/tanny-chavez-esparza/): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/3_4_ML_tutorial_CNN.ipynb)
+- chatGPT for ML [Alex Hexemer](https://als.lbl.gov/people/alex-hexemer/): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/4_1_ML_tutorial_chatGPT.ipynb)
 
 # Copyright
 
