@@ -12,7 +12,11 @@ The tutorial has been prepared by
 [Zhuowen Zhao](https://als.lbl.gov/people/zhuowen-zhao/), and
 [Petrus Zwart](https://crd.lbl.gov/divisions/amcr/mathematics-dept/math-for-experimental-data-analysis/people-of-math-for-experimental-data-analysis-group/peter-zwart/).
 
-It consists of the following hands-on sessions:
+This tutorial has been designed to be compatible with Google Colab, a free, cloud-based Jupyter notebook environment equipped with commonly used machine learning tools. 
+
+Get started with Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/1_1_ML_tutorial_GoogleColabBasics.ipynb)
+
+The tutorial consists of the following hands-on sessions:
 - Data pre-processing by [Tibbers Hao](https://als.lbl.gov/people/guanhua-tibbers-hao/): 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlexchange/als_ml_tutorial/blob/main/1_2_ML_tutorial_DataPreprocessing.ipynb)
 - Dimensionality reduction by [Eric Roberts](https://sites.google.com/view/ericjohnroberts/home): 
