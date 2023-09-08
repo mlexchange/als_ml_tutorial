@@ -8,5 +8,6 @@ torch
 torchvision
 torchsummary
 pytorch-lightning
+pandas
 jupyterlab
 ipykernel
